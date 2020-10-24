@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T04:19:42.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="0D_idgswOxldjLNSRSaE" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T04:25:51.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="50u7h-24FzYc6QMqVTL-" version="13.8.1" type="github">
   <diagram id="94A1VZJgreC6ts1XR8HZ" name="Page-1">
     <mxGraphModel dx="2066" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,46 +20,42 @@
           <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-6" value="远程驾驶仓1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="207.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-7" value="远程驾驶云平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-9" value="远程驾驶仓2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="282.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-10" value="。。。。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="352.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uUaT_VpsIP1angWwcYCl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uUaT_VpsIP1angWwcYCl-14" target="uUaT_VpsIP1angWwcYCl-19" edge="1">
+        <mxCell id="uUaT_VpsIP1angWwcYCl-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OHjB7JMjwnAzmLHX4Sn5-5" target="uUaT_VpsIP1angWwcYCl-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHjB7JMjwnAzmLHX4Sn5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uUaT_VpsIP1angWwcYCl-19" target="OHjB7JMjwnAzmLHX4Sn5-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uUaT_VpsIP1angWwcYCl-14" value="基于驾驶员&lt;br&gt;工作状态&lt;br&gt;身体状态信息&lt;br&gt;进行从优匹配" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="725" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uUaT_VpsIP1angWwcYCl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uUaT_VpsIP1angWwcYCl-19" target="uUaT_VpsIP1angWwcYCl-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uUaT_VpsIP1angWwcYCl-19" value="建立远程驾驶仓&lt;br&gt;与无人车连接" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="815" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uUaT_VpsIP1angWwcYCl-21" value="驾驶仓发送&lt;br&gt;无人车操作指令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="uUaT_VpsIP1angWwcYCl-19" value="建立远程驾驶仓&lt;br&gt;与无人车连接&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="975" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uUaT_VpsIP1angWwcYCl-23" target="uUaT_VpsIP1angWwcYCl-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-23" value="无人车接收操作指令&lt;br&gt;与自动算法进行择优算法匹配" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uUaT_VpsIP1angWwcYCl-25" target="uUaT_VpsIP1angWwcYCl-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-25" value="确认最终执行&lt;br&gt;指令" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUaT_VpsIP1angWwcYCl-27" value="完成接管操作" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHjB7JMjwnAzmLHX4Sn5-1" value="无人车端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="100" width="90" height="20" as="geometry" />
@@ -68,7 +64,7 @@
           <mxGeometry x="585" y="100" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OHjB7JMjwnAzmLHX4Sn5-3" value="远程驾驶仓端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="975" y="100" width="90" height="20" as="geometry" />
+          <mxGeometry x="1005" y="100" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OHjB7JMjwnAzmLHX4Sn5-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="uUaT_VpsIP1angWwcYCl-3" target="uUaT_VpsIP1angWwcYCl-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,18 +97,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OHjB7JMjwnAzmLHX4Sn5-9" value="同步车端&lt;br&gt;场景信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHjB7JMjwnAzmLHX4Sn5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHjB7JMjwnAzmLHX4Sn5-11" target="OHjB7JMjwnAzmLHX4Sn5-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OHjB7JMjwnAzmLHX4Sn5-11" value="基于历史场景数据&lt;br&gt;查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OHjB7JMjwnAzmLHX4Sn5-13" value="云端指定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OHjB7JMjwnAzmLHX4Sn5-17" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHjB7JMjwnAzmLHX4Sn5-13" target="uUaT_VpsIP1angWwcYCl-23">
+        <mxCell id="OHjB7JMjwnAzmLHX4Sn5-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OHjB7JMjwnAzmLHX4Sn5-13" target="uUaT_VpsIP1angWwcYCl-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="710" as="sourcePoint" />
             <mxPoint x="440" y="660" as="targetPoint" />
@@ -134,6 +130,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="460" as="sourcePoint" />
             <mxPoint x="960" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHjB7JMjwnAzmLHX4Sn5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHjB7JMjwnAzmLHX4Sn5-21" target="OHjB7JMjwnAzmLHX4Sn5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHjB7JMjwnAzmLHX4Sn5-21" value="同步驾驶仓人员信息&lt;br&gt;数据到车端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHjB7JMjwnAzmLHX4Sn5-23" value="远程驾驶仓&lt;br&gt;硬件数据" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="475" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHjB7JMjwnAzmLHX4Sn5-24" value="得到人工操作&lt;br&gt;指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHjB7JMjwnAzmLHX4Sn5-26" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OHjB7JMjwnAzmLHX4Sn5-24" target="uUaT_VpsIP1angWwcYCl-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="910" as="sourcePoint" />
+            <mxPoint x="490" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
