@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-03T08:45:45.797Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bSOYy2K3ogV7E8VpjDIH" version="13.8.5" type="github">
+<mxfile modified="2020-11-03T08:46:54.608Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="xZr6YOLkqlfny_4B9W1_" version="13.8.5" type="github">
   <diagram id="8cc8233b-1eab-24a5-a685-ae8fe6e25d7e" name="Page-1">
     <mxGraphModel dx="2066" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1492,13 +1492,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GIamlhdtx7mGT0ojP6uy-333" value="数据库orm" style="rounded=1;whiteSpace=wrap;html=1;glass=0;comic=0;strokeColor=#000000;fillColor=#97D077;" parent="1" vertex="1">
-          <mxGeometry x="962.5" y="565" width="84" height="20" as="geometry" />
+          <mxGeometry x="961.5" y="580" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIamlhdtx7mGT0ojP6uy-334" value="sequelize" style="rounded=1;whiteSpace=wrap;html=1;glass=0;comic=0;strokeColor=#000000;fillColor=#97D077;" parent="1" vertex="1">
-          <mxGeometry x="1072.5" y="565" width="84" height="20" as="geometry" />
+          <mxGeometry x="1073" y="550" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIamlhdtx7mGT0ojP6uy-335" value="typeorm" style="rounded=1;whiteSpace=wrap;html=1;glass=0;comic=0;strokeColor=#000000;fillColor=#97D077;" parent="1" vertex="1">
-          <mxGeometry x="1072.5" y="600" width="84" height="20" as="geometry" />
+          <mxGeometry x="1073" y="580" width="84" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIamlhdtx7mGT0ojP6uy-336" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="GIamlhdtx7mGT0ojP6uy-333" target="GIamlhdtx7mGT0ojP6uy-334" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1543,6 +1543,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="2150" as="sourcePoint" />
             <mxPoint x="970" y="2100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcwMd1mBT-GgzdlPSCDu-338" value="prisma" style="rounded=1;whiteSpace=wrap;html=1;glass=0;comic=0;strokeColor=#000000;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="610" width="84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwMd1mBT-GgzdlPSCDu-340" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GIamlhdtx7mGT0ojP6uy-333" target="xcwMd1mBT-GgzdlPSCDu-338">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="630" as="sourcePoint" />
+            <mxPoint x="1330" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
