@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-11-20T06:53:21.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2JVIBLsfa1gVMYm3Y-T9" version="13.10.0" type="github">
+<mxfile host="www.draw.io" modified="2020-11-20T06:53:40.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="QmbU8dahRflGhNN34cuK" version="13.10.0" type="github">
   <diagram id="l6-A4_mXkFvyd_G12Gr5" name="Page-1">
     <mxGraphModel dx="1971" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
         <mxCell id="lDXIzcax4NrUWh7Z8lVg-60" value="updated_at" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="lDXIzcax4NrUWh7Z8lVg-58" vertex="1">
           <mxGeometry x="30" width="150" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="xhbgUbYrCAmLfJN5bori-1" value="member" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="xhbgUbYrCAmLfJN5bori-1" value="member" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="620" y="60" width="160" height="290" as="geometry" />
         </mxCell>
         <mxCell id="xhbgUbYrCAmLfJN5bori-2" value="id" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=34;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;fontSize=12;" parent="xhbgUbYrCAmLfJN5bori-1" vertex="1">
