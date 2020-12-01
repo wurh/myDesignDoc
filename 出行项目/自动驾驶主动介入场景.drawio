@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T08:31:26.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="QRSrQ1Q-kh0Oz7ZqfFnd" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T08:50:02.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gDTK3WNNl0qrVHHpxZX_" version="13.10.4" type="github">
   <diagram id="wOwt1rjwt9cGAp_TP0rn" name="Page-1">
     <mxGraphModel dx="2066" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-4" target="OFSOkuGfqPeDkkTLP1HN-5">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-7" value="远程驾驶云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-14" target="OFSOkuGfqPeDkkTLP1HN-16">
           <mxGeometry relative="1" as="geometry" />
@@ -38,45 +38,45 @@
           <mxGeometry x="70" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-18" value="无人车端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="50" width="90" height="20" as="geometry" />
+          <mxGeometry x="82.5" y="60" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-19" value="云平台端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="100" width="90" height="20" as="geometry" />
+          <mxGeometry x="665" y="60" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-24" target="OFSOkuGfqPeDkkTLP1HN-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-24" value="云端求助" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-25" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-7" target="OFSOkuGfqPeDkkTLP1HN-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="715" y="480" as="sourcePoint" />
-            <mxPoint x="765" y="430" as="targetPoint" />
+            <mxPoint x="775" y="470" as="sourcePoint" />
+            <mxPoint x="825" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-28" target="OFSOkuGfqPeDkkTLP1HN-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-28" value="同步车端&lt;br&gt;场景信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-30" target="OFSOkuGfqPeDkkTLP1HN-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-30" value="基于历史场景数据&lt;br&gt;查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-31" value="云端指定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-32" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-31" target="OFSOkuGfqPeDkkTLP1HN-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="710" as="sourcePoint" />
             <mxPoint x="440" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="630" />
-              <mxPoint x="430" y="620" />
+              <mxPoint x="540" y="620" />
+              <mxPoint x="540" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,10 +86,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-41" value="路面终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-42" value="路端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="100" width="90" height="20" as="geometry" />
+          <mxGeometry x="380" y="60" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-44" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-5" target="OFSOkuGfqPeDkkTLP1HN-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,6 +124,17 @@
         </mxCell>
         <mxCell id="OFSOkuGfqPeDkkTLP1HN-51" value="返回终端指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OFSOkuGfqPeDkkTLP1HN-50">
           <mxGeometry x="0.4459" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFSOkuGfqPeDkkTLP1HN-53" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="OFSOkuGfqPeDkkTLP1HN-31" target="OFSOkuGfqPeDkkTLP1HN-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="740" as="sourcePoint" />
+            <mxPoint x="590" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFSOkuGfqPeDkkTLP1HN-55" value="同步指定到路端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OFSOkuGfqPeDkkTLP1HN-53">
+          <mxGeometry x="-0.1645" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
