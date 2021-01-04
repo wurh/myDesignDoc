@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T03:59:14.030Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="l1ce4QAE2ZYIJepTm2iG" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-04T06:03:55.053Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="QpacPFHh7q0dJvOiY9Wp" version="14.1.8" type="github">
   <diagram id="N39efjuvj9uV7_tdD0Wl" name="Page-1">
-    <mxGraphModel dx="2066" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,27 @@
             <mxPoint x="457" y="580" as="sourcePoint" />
             <mxPoint x="487" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uSJiySgHFmY00MwDGNhw-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uSJiySgHFmY00MwDGNhw-23" value="car" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uSJiySgHFmY00MwDGNhw-24" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0.4;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="310" as="sourcePoint" />
+            <mxPoint x="314" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="314" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uSJiySgHFmY00MwDGNhw-25" value="ticket scan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="160" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uSJiySgHFmY00MwDGNhw-26" value="station stop&lt;br&gt;judgement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="160" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
