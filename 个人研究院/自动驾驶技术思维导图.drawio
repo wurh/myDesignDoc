@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T14:00:04.195Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VJlDd2_2lGeDnXZSpWLM" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-09T14:01:42.045Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WIyebuML3FsFRMZMy3nW" version="14.1.8" type="github">
   <diagram id="ZL88Ck0jPQ6fW8jYsuRH" name="Page-1">
     <mxGraphModel dx="1135" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,6 +466,9 @@
         <mxCell id="gplPUaTzT2VA23lCb3h_-12" value="Perception" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="496" y="1180" width="184" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="gplPUaTzT2VA23lCb3h_-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gplPUaTzT2VA23lCb3h_-13" target="gplPUaTzT2VA23lCb3h_-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gplPUaTzT2VA23lCb3h_-13" value="Prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="496" y="1210" width="184" height="20" as="geometry" />
         </mxCell>
@@ -539,6 +542,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="1330" as="sourcePoint" />
             <mxPoint x="780" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gplPUaTzT2VA23lCb3h_-30" value="Traffic Prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gplPUaTzT2VA23lCb3h_-32" value="分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1194.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gplPUaTzT2VA23lCb3h_-33" value="回归" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1225.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gplPUaTzT2VA23lCb3h_-34" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="gplPUaTzT2VA23lCb3h_-30" target="gplPUaTzT2VA23lCb3h_-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="1160" as="sourcePoint" />
+            <mxPoint x="1010" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gplPUaTzT2VA23lCb3h_-35" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="gplPUaTzT2VA23lCb3h_-30" target="gplPUaTzT2VA23lCb3h_-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="1150" as="sourcePoint" />
+            <mxPoint x="970" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
