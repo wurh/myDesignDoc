@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T11:49:35.392Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5h2kAbZ4h53oSt4j8Lin" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-09T11:52:41.584Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="e39GGaucHfTxazc8ABfB" version="14.1.8" type="github">
   <diagram id="ZL88Ck0jPQ6fW8jYsuRH" name="Page-1">
     <mxGraphModel dx="1135" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,6 +95,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="320" as="sourcePoint" />
             <mxPoint x="700" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-21" value="Path Planning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-22" value="Action Prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-23" value="Obstacle Avodiance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-24" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-5" target="-4MOpglVaHPoF0utyKIM-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="410" as="sourcePoint" />
+            <mxPoint x="610" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-25" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-5" target="-4MOpglVaHPoF0utyKIM-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="410" as="sourcePoint" />
+            <mxPoint x="680" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-26" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-5" target="-4MOpglVaHPoF0utyKIM-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="260" as="sourcePoint" />
+            <mxPoint x="680" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
