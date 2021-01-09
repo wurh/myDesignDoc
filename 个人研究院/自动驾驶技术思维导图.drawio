@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T12:18:13.401Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="V4qT6mCLzuOGwgJ5iVBd" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-09T12:21:12.551Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UifpuQjmKAsqYVEKY7Xf" version="14.1.8" type="github">
   <diagram id="ZL88Ck0jPQ6fW8jYsuRH" name="Page-1">
     <mxGraphModel dx="1135" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-56" value="感知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="800" width="100" height="30" as="geometry" />
+          <mxGeometry x="360" y="850" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-57" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="BTjaL7hRL5fljO6jldBH-1" target="-4MOpglVaHPoF0utyKIM-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -260,9 +260,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-58" value="机器视觉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="740" width="120" height="20" as="geometry" />
+          <mxGeometry x="630" y="700" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-4MOpglVaHPoF0utyKIM-59" value="环境感知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-4MOpglVaHPoF0utyKIM-59" value="硬件感知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="496" y="800" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-60" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-56" target="-4MOpglVaHPoF0utyKIM-59">
@@ -272,19 +272,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-61" value="激光雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="770" width="120" height="20" as="geometry" />
+          <mxGeometry x="630" y="730" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-62" value="毫米波雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="800" width="120" height="20" as="geometry" />
+          <mxGeometry x="630" y="760" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-63" value="微波雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="830" width="120" height="20" as="geometry" />
+          <mxGeometry x="630" y="790" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-64" value="超声波传感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="860" width="120" height="20" as="geometry" />
+          <mxGeometry x="630" y="820" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-65" value="红外线传感" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="890" width="120" height="20" as="geometry" />
+          <mxGeometry x="630" y="850" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-4MOpglVaHPoF0utyKIM-66" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-59" target="-4MOpglVaHPoF0utyKIM-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -320,6 +320,69 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="1030" as="sourcePoint" />
             <mxPoint x="650" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-72" value="软件感知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="920" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-73" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-56" target="-4MOpglVaHPoF0utyKIM-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1050" as="sourcePoint" />
+            <mxPoint x="560" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-74" value="Object Detection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="880" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-75" value="Scene" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="910" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-76" value="Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="940" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-77" value="Object Tracking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="970" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-78" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-72" target="-4MOpglVaHPoF0utyKIM-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1070" as="sourcePoint" />
+            <mxPoint x="630" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-79" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-72" target="-4MOpglVaHPoF0utyKIM-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="1080" as="sourcePoint" />
+            <mxPoint x="700" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-80" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-72" target="-4MOpglVaHPoF0utyKIM-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1070" as="sourcePoint" />
+            <mxPoint x="650" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-81" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-72" target="-4MOpglVaHPoF0utyKIM-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1080" as="sourcePoint" />
+            <mxPoint x="680" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-82" value="R-CNN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="860" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-84" value="SSD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="890" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-85" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-74" target="-4MOpglVaHPoF0utyKIM-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="1010" as="sourcePoint" />
+            <mxPoint x="890" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4MOpglVaHPoF0utyKIM-86" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="-4MOpglVaHPoF0utyKIM-74" target="-4MOpglVaHPoF0utyKIM-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="1010" as="sourcePoint" />
+            <mxPoint x="870" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
