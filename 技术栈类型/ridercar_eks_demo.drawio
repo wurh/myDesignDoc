@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T12:34:11.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="DgPol5cxQMlDsi2CFG5w" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T12:34:46.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="PF_oRX1YkFxPnFgYxO2D" version="14.7.8" type="github">
   <diagram id="VbXcH7iSGpEgpWYNc_US" name="Page-1">
     <mxGraphModel dx="2066" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="766" height="730" as="geometry" />
+        </mxCell>
         <mxCell id="bS0Tw7CyHgy9k1O23Ajv-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="260" width="620" height="140" as="geometry" />
         </mxCell>
@@ -92,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="99kPJnT9r1nKE7GGxLyh-5" value="车端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="99kPJnT9r1nKE7GGxLyh-7" value="S3 上报车辆计算&lt;br&gt;平台数据与版本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
@@ -102,6 +105,9 @@
             <mxPoint x="300" y="570" as="sourcePoint" />
             <mxPoint x="350" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-13" value="EKS 集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
