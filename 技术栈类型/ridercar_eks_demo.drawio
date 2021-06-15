@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T12:29:59.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ih0BpDmVDg9CKxDwYRel" version="14.7.8" type="github"><diagram id="VbXcH7iSGpEgpWYNc_US" name="Page-1">3Zptj6M2EMc/jaX2RSvMgzEvIWF7le5010ulU18S8BK6JI4M2Wz66TsGAwn2bel1d6EnrbLmj23MbyYzHghyVvunX0Ry3H3gGSuRbWVPyFkj27YtQuCfVC6tgrFNWyUXRaa0QdgUfzElWko9FRmrbjrWnJd1cbwVU344sLS+0RIh+Pm22z0vb696THKmCZs0KXX1S5HVu1altj/o71iR77orYxK0Z/ZJ11ndSbVLMn6+kpwYOSvBed229k8rVkp6HZd23N1XzvYLE+xQTxmw3Vi/n/3V5V1+CR7wR9sJ/3z8CXvtNI9JeVJ3rFZbXzoEgp8OGZOzYORE511Rs80xSeXZM1gdtF29L9VpNR0TNXv66kJxf/vgOIzvWS0u0EUNcBUw5TK2p47PA3/SQd1ds+8GJsrmeT/1gAUaisy/oBQsHpKLDZAcA6TeHV8cEtYhxRRFaxSSphEjCg0PBXcoClHsoxAjaqHYRdGdbMcEUYzCu2fQWm+C1h+hJTpabPI/8lpk7UlkqeQYWLIBn6G3QLJ9VF8MWmcSWgAZyT/wXho2RBeH1vGcn72FwXWn+u1aEmwjQrjqcJMFUnaDpTmwIX+Dl4aANmjcFdq0iboYBdRAVCoU0bhRYhTY0g4U+qxnhz2Kw547N2sy0Z+BvkTsy0bgS/pRgCKnsQckvyXmvHFknh+2Pwm234QKtwEJkdldIFo9Ms8Pl35j2vNlWKFUwg1WMlbPDXcckOdH232Rrthuk/SBHTINFtx2fUukqgV/YCtecgHKgR+gZ3RflOVISsoiP8BhCpgY6JGEWEDVGqoT+yLL5GWMJrg10gtYgY6yoq0bwTXY4PVKkWm1iL5j9ofYDYrsQ2T+lAqk0LWM5nN7/Cgr2sHsDj+tPIGI4TW5D+LyWmJus6HcggBgXxWHdIUCMjtjZ3mQpxUqenWtY9d8fG7afRxYDm1T5fLMrnpxW2dveUj1zfO94JC9vue8OA4jhmrxbfOiYVM9hg8GCeVzc0mxTKqqSBv+iah1WXNalmlP00es4Fr8JFL2zCoDM9MraJ4BWqcJViZ18Xi7DBNJdYVPvIAFDiZzRhtKZ2SMdvlq1GAPfaLxznRsVUCas1qbqDFsf9v/wdb6Hn/DBLgzaCWrKmSTUn7LtiCQXLZ++Nanilb46dcfn4l5b/NEvH8n0+1C5495y39vQAwhyfjeAOPXotSZ5IrSkYmqqCA3AIfvNjmMiibiz5wcbL1o+rzewFQf/tj89l6zQ7VLjrKZXsoCwAjnn9132yJ8v+0FKIzzBuzHUw3TsM6i7Wtg7L0MaTwKxYQaIoOJNX011nrNFH6RrD+zrKj+z6xd6+1Yw+Hw+rzNm8OvEJz4bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-15T12:34:11.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="DgPol5cxQMlDsi2CFG5w" version="14.7.8" type="github">
+  <diagram id="VbXcH7iSGpEgpWYNc_US" name="Page-1">
+    <mxGraphModel dx="2066" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="260" width="620" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="420" width="630" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-1" value="车辆基础信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-2" value="车辆运营信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-3" value="车辆任务信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="743.5" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-4" value="车辆软硬件信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-5" value="安全员信息与排班" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-6" value="车辆计算平台信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-7" value="车辆维护信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="743.5" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-8" value="车辆任务版本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-10" value="backend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-11" value="车辆运营管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-12" value="车辆数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-13" value="车辆基础数据管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-14" value="安全员排班" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-16" value="frontend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-17" value="" style="endArrow=classic;startArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;" parent="1" source="bS0Tw7CyHgy9k1O23Ajv-9" edge="1" target="bS0Tw7CyHgy9k1O23Ajv-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="540" as="sourcePoint" />
+            <mxPoint x="1180" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-18" value="Server less&lt;br&gt;(车辆运营信息 API)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1217" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="670" width="630" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-20" value="persistence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="680" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-21" value="RDS/MYSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="580" y="690" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bS0Tw7CyHgy9k1O23Ajv-22" value="AWS/Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="790" y="690" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-1" value="IOT 车辆运营信息&lt;br&gt;车辆任务信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-2" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="99kPJnT9r1nKE7GGxLyh-1" target="bS0Tw7CyHgy9k1O23Ajv-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1277" y="550" as="sourcePoint" />
+            <mxPoint x="1480" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99kPJnT9r1nKE7GGxLyh-3" target="99kPJnT9r1nKE7GGxLyh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-3" value="车端服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99kPJnT9r1nKE7GGxLyh-5" target="99kPJnT9r1nKE7GGxLyh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-5" value="车端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-7" value="S3 上报车辆计算&lt;br&gt;平台数据与版本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99kPJnT9r1nKE7GGxLyh-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="99kPJnT9r1nKE7GGxLyh-7" target="bS0Tw7CyHgy9k1O23Ajv-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="570" as="sourcePoint" />
+            <mxPoint x="350" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
