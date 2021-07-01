@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T02:45:57.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.2" etag="XPQMulSHEC5WAURyAlBE" type="github"><diagram id="Kz9xHecx-9hvckUcVjWp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-01T02:52:33.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="vfCDZYOIQBL1jwbpEEMr" version="14.8.2" type="github">
+  <diagram id="Kz9xHecx-9hvckUcVjWp" name="Page-1">
+    <mxGraphModel dx="2066" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lyQ9myguwR9dthpPX7V2-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lyQ9myguwR9dthpPX7V2-30" target="lyQ9myguwR9dthpPX7V2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-30" value="调度员发起更换&lt;br&gt;安全员" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lyQ9myguwR9dthpPX7V2-31" target="lyQ9myguwR9dthpPX7V2-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-31" value="ridercar" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lyQ9myguwR9dthpPX7V2-34" target="lyQ9myguwR9dthpPX7V2-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-34" value="查询未出车&lt;br&gt;任务" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lyQ9myguwR9dthpPX7V2-40" target="lyQ9myguwR9dthpPX7V2-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-45" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lyQ9myguwR9dthpPX7V2-44">
+          <mxGeometry x="-0.2245" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lyQ9myguwR9dthpPX7V2-40" target="lyQ9myguwR9dthpPX7V2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-49" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lyQ9myguwR9dthpPX7V2-48">
+          <mxGeometry x="-0.1429" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-40" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-43" value="告警slack" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="375" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lyQ9myguwR9dthpPX7V2-47" target="lyQ9myguwR9dthpPX7V2-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-47" value="&lt;span&gt;更新出车任务与&lt;br&gt;安全员管理关系数据&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lyQ9myguwR9dthpPX7V2-50" value="slack 通知出车&lt;br&gt;任务更换安全员" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
