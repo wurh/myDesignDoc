@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T02:52:33.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="vfCDZYOIQBL1jwbpEEMr" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T02:52:43.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ejXqo7FLXIQtrGnaPMjp" version="14.8.2" type="github">
   <diagram id="Kz9xHecx-9hvckUcVjWp" name="Page-1">
     <mxGraphModel dx="2066" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
           <mxGeometry x="160" y="500" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lyQ9myguwR9dthpPX7V2-50" value="slack 通知出车&lt;br&gt;任务更换安全员" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="600" width="110" height="50" as="geometry" />
+          <mxGeometry x="160" y="585" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
