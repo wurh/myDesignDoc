@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T02:31:11.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ww9WhSnh40ed5qAyX9O0" version="14.8.2" type="github"><diagram id="JkqSz3OC0iguHb5306tC" name="Page-1">3VrbbuM2EP0aAu1DC90oUY+SL9sCKbpACjTZl0K2aFu7smnQdGzn60tS1I2SvbJjRUFeEnI4GorDOTOHlIE9Wh+/0Gi7+ovEOAWWER+BPQaWZRmuy/8JySmTmKaFMsmSJrGSlYLH5BUroaGk+yTGu5oiIyRlybYunJPNBs9ZTRZRSg51tQVJ67NuoyVuCB7nUdqU/pvEbJVJkeWV8j9wslzlM5uun42so1xZrWS3imJyqIjsCbBHlBCWtdbHEU6F93K/ZM9Nz4wWL0bxhnV54Cs8vLrfnuByFDw8hN+DydPm6Te1PS9RulcLVi/LTrkHcMwdorqEshVZkk2UTkppSMl+E2MxjcF7pc4DIVsuNLnwO2bspHY32jPCRSu2TtVoNqeY6OzalGhH9nSOLywoj5GILjG7oOcUO8BjF5M1ZvTEn6M4jVjyUn+PSMXQstAr3cwbytNXeN1seJ3HPqbziDa83/DSC6YMHy/7qbmuApAqGBUcHdU9lKFt5shbVcIaGj15wmp4Iqbc/fS/bRT37AvH/mC+8D4bFp2OWIRDYtFpen0CAULAD0UjDEEYSIknGwiEYxC4YOLIIamDAhDw13NTvshwxjHsLkXrF2UIcW0XhPyBSfH8r5eCe5Gk6YikhMoRe7FYWPM5l+8YJT9wZSR2Zy50+0kN5uB48D8bHmBHPKAh8QBb8MCD1gDIlngIZPRD4JvAR20RDkEwAciXQ7yNSuU2hHDTU+AbCkYCc4UhR0wWBtdAJYYYxU4bVJA1s92eoDJ86TCv5HE4nZHDR4UJ6ggTc9C6gc7VjcARMey7IBjfVjfk49zOVCLHUHhDIwEnJQnbnjoPPDHpVMzFLSNTWNaDg67IerbnPgoPq4Thx20kt+jAT3Vt+/wm+Jg+rMHHdlvgY7XApxDeHz/tLCBzfgNImzgQJ0vem6fRbpfM6y7Cx4Q9KSSJ9rNo/w5Vb3ysDI1PeecSOLlf6amwKDoVk6Jb2pS9wqgwxNsrQpNXsmFROgxQz+C0st3wQrLsDGc1w1eS8IUU0eZpLF/Pwdkq1UPV47Nmx3S1pI80Q5kbGoZ4qESnitpWKOzOv2/Bu3J0OLVjPW9kFstgL1z6hmOY/Ynqh9mVZ2WLHOwSoI1pQcGl/CKHw04VREg4CbvIvSaeGBLKnkhryFU6oS0k/G+Y1R0oqJ4oE2Oh3ygTtW3uv1ToTAu2Ma22UuH2Vimap/TqjYUh/eur7eEbJmpds1TL3Qo9uQdTwRXeVLyH5sP6TcrwfNj6THzY9Lvms2EvNVvO6y2BLoltltgu5Co/AMhpJ7k/T4dQZi+Z6rh9rv/zxNbv1SJ04NCAMDoAoiuvLbjsc2XkDK8tqGvJVp9rZLWdut4TPl5H+GQBPBRPhfp19K1EFSLNkNGNqN6NSza/btwcaibofoS6Z8h0ZZDDhoytHUlc58aQcUwtX/nvHDJWS+nokukbeV1w2RD4U1lnJN/tN9PrBNVtu8t430zfvMr48+9/JDNtehSKG1c/u2sdgcC48lpp4LL6AZzdcoa7uaxec12Ul1XzuhuhO+ZIq+vXvXOn7PfJkZZWDZFeDbvmSFsLPk8Pqr5zZJfPwz0wuHuGTNeq6g0ZMUXxyz+E6sWwa8S42k2eqZfnmyOGd8vfDWXq5c+v7Mn/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-01T02:33:38.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="yNuV9wfmyu3fWN2Zfaa4" version="14.8.2" type="github">
+  <diagram id="JkqSz3OC0iguHb5306tC" name="Page-1">
+    <mxGraphModel dx="2066" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-1" target="P5wz6ZX5gCALLBjAEXnX-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-1" value="ridercar" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-2" value="driver_pad" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-4" target="P5wz6ZX5gCALLBjAEXnX-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-4" value="创建出车任务&lt;br&gt;(分派车)" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="200" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-5" target="P5wz6ZX5gCALLBjAEXnX-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-5" value="调度员分派安全员&lt;br&gt;(运力派人)" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-8" target="P5wz6ZX5gCALLBjAEXnX-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-qk9JmvtxwR0tcic5spb-1" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P5wz6ZX5gCALLBjAEXnX-16">
+          <mxGeometry x="-0.2698" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-8" value="判断出车任务&lt;br&gt;是否包含&lt;br&gt;安全员信息" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="195" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-14" value="否" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=horizontal;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-8" target="P5wz6ZX5gCALLBjAEXnX-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="450" as="sourcePoint" />
+            <mxPoint x="160" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-15" target="P5wz6ZX5gCALLBjAEXnX-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-15" value="写入出车任务与安全员管理关系数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-17" value="driver_pad 登录&lt;br&gt;获取安全员信息" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="430" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-19" target="P5wz6ZX5gCALLBjAEXnX-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-19" value="获取该安全员的&lt;br&gt;出车任务卡片数据" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="430" y="545" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-20" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-17" target="P5wz6ZX5gCALLBjAEXnX-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="450" as="sourcePoint" />
+            <mxPoint x="580" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-21" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-15" target="P5wz6ZX5gCALLBjAEXnX-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="640" as="sourcePoint" />
+            <mxPoint x="410" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-22" value="出车任务数据统计" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="660" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-24" value="IOT 出车回传&lt;br&gt;安全员数据" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="430" y="660" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-25" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-24" target="P5wz6ZX5gCALLBjAEXnX-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="800" as="sourcePoint" />
+            <mxPoint x="330" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P5wz6ZX5gCALLBjAEXnX-27" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="P5wz6ZX5gCALLBjAEXnX-2" target="P5wz6ZX5gCALLBjAEXnX-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="190" as="sourcePoint" />
+            <mxPoint x="640" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
